@@ -1,4 +1,3 @@
-
 # 🍗 KFC Web Project
 
 A modern KFC website built using Bootstrap, HTML, CSS, and JavaScript.
