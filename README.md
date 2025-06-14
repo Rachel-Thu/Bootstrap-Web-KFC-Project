@@ -2,7 +2,6 @@
 # 🍗 KFC Web Project
 
 A modern KFC website built using Bootstrap, HTML, CSS, and JavaScript.
-(Note: The photos used in this project are sourced from the internet to visually enhance the presentation.)
 
 ## 🌐 Live Demo
 🔗 [View it here]( https://rachel-thu.github.io/Bootstrap-Web-KFC-Project/)
@@ -23,6 +22,13 @@ A modern KFC website built using Bootstrap, HTML, CSS, and JavaScript.
 - Interactive navigation menu
 - Menu section with images and hover effects
 - Contact form and footer
+
+---
+
+## 📦 Notes
+
+- This is a front-end only project.
+- The photos used in this project are sourced from the internet to visually enhance the presentation.
 
 ---
 
